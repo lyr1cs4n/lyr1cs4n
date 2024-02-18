@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @lyr1cs4n
-- 👀 I’m interested in ...
+# Hello there! 👋
+
+## About Me
+I'm @lyr1cs4n, a passionate developer with interests in various fields including Algorithms, Mobile Applications, Data Science, and Game Development. I love exploring new technologies and solving challenging problems.
+
+## Interests
 - Algorithms
 - Mobile Applications
 - Data Science
 - Game Development
 
-
-<!---
-lyr1cs4n/lyr1cs4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me if you share similar interests or want to collaborate on any exciting projects!
