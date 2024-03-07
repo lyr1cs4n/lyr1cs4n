@@ -1,12 +1,11 @@
-# Hello there! 👋
+"Hey there! 👋
 
-## About Me
-I'm @lyr1cs4n, a passionate developer with interests in various fields including Algorithms, Mobile Applications, Data Science, and Game Development. I love exploring new technologies and solving challenging problems.
+### About Me
+I'm @lyr1cs4n, a student passionate about coding, especially in frontend, backend, and fullstack development. I'm always eager to explore new tech and take on challenges.
 
-## Interests
-- Algorithms
-- Mobile Applications
-- Data Science
-- Game Development
+### Interests
+- Frontend
+- Backend
+- Fullstack Dev
 
-Feel free to reach out to me if you share similar interests or want to collaborate on any exciting projects!
+If you're into similar stuff or want to team up on cool projects, hit me up!"
